@@ -1,0 +1,30 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#in class R
+## R Markdown
+
+```{r}
+x<-1
+y<-2
+z<-c(x,y)
+z 
+```
+
+```{r}
+x+y-5
+```
+
+##7除以三餘數
+##7除以三的商
+
+```{r}
+7 %% 3
+7%/%3
+```
+
